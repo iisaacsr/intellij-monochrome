@@ -1,5 +1,13 @@
 ## Monochrome - a minimal theme for IntelliJ editors
 
+### FORK CHANGES
+
+* Yellow braces
+* Purple string values
+* New font and font-size (Monaspace Argon 12)
+* Version compatiblity for 2025.2.2.0.0< and until-build 252.*
+
+
 This theme aims to make the editor have as few colors as possible while
 still being usable. Syntax highlighting uses black, grey, and white, (except
 for TODO comments).
